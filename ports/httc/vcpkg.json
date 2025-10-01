@@ -1,0 +1,26 @@
+{
+  "name": "httc",
+  "version": "0.1.0",
+  "description": "HTTP client/server library",
+  "homepage": "https://github.com/Sc1pex/httc",
+  "license": "MIT",
+  "dependencies": [
+    "asio",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ],
+  "features": {
+    "tests": {
+      "description": "Build tests",
+      "dependencies": [
+        "catch2"
+      ]
+    }
+  }
+}
