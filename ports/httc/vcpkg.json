@@ -1,6 +1,6 @@
 {
   "name": "httc",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "HTTP client/server library",
   "homepage": "https://github.com/Sc1pex/httc",
   "license": "MIT",
