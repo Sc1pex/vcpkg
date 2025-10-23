@@ -3785,7 +3785,7 @@
       "port-version": 0
     },
     "httc": {
-      "baseline": "0.3.1",
+      "baseline": "0.3.2",
       "port-version": 0
     },
     "http-parser": {
